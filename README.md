@@ -1,5 +1,5 @@
 Capturas del videojuego:
-
+<img width="812" height="391" alt="image" src="https://github.com/user-attachments/assets/1abab427-6ea8-4552-9795-1b86986fe74a" />
 <img width="1048" height="490" alt="image" src="https://github.com/user-attachments/assets/17a9327b-9389-46f7-b16d-ba2833958821" />
 <img width="1124" height="496" alt="image" src="https://github.com/user-attachments/assets/9fe4c317-6793-4ea0-85fa-859b871efe4b" />
 <img width="1206" height="500" alt="image" src="https://github.com/user-attachments/assets/a40d44ac-c1ce-43b0-8cec-23625d35bb39" />
